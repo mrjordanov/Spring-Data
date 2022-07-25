@@ -1,8 +1,6 @@
 package com.example.mvc.util;
 
 
-
-
 import javax.validation.ConstraintViolation;
 import javax.validation.Validation;
 import javax.validation.Validator;
